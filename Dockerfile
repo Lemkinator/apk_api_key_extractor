@@ -6,7 +6,7 @@ RUN \
   apt-get update && \
   apt-get install -y python3 && \
   apt-get install -y git python3-pip default-jdk && \
-  git clone --recursive https://github.com/alessandrodd/apk_api_key_extractor.git && \
+  git clone --recursive https://github.com/Lemkinator/apk_api_key_extractor.git && \
   cd apk_api_key_extractor && \
   cp config.example.yml config.yml && \
   pip3 install -r requirements.txt 
