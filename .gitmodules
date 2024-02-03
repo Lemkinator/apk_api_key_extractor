@@ -1,6 +1,8 @@
 [submodule "api-key-detector"]
 	path = api-key-detector
-	url = https://github.com/alessandrodd/api-key-detector.git
+	url = https://github.com/Lemkinator/api-key-detector.git
+	branch = master
 [submodule "api_key_detector"]
 	path = api_key_detector
-	url = https://github.com/alessandrodd/api_key_detector.git
+	url = https://github.com/Lemkinator/api_key_detector.git
+	branch = master
